@@ -6,7 +6,5 @@
       "src": "index.html",
       "use": "@vercel/static"
     }
-  ],
-  // No custom routes: allow Vercel to serve static assets (images/CSS/JS) directly.
-  // If you need SPA fallback later, add a route that EXCLUDES /images and other static paths.
+  ]
 }
